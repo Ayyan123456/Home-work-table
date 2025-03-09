@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <h1>Table of countries</h1>
+        <table border="4"bgcolor="lightgreen"
+        <tr>
+            <th>
+                Country
+            </th>
+            <th>Population</th>
+            <th>National sports</th>
+        </tr>
+        <t><th>
+            Pakistan
+        </th>
+        <td>247.5million</th>
+        <th>Hokey</th>
+    </tr>
+    <th>
+        INDIA
+    </th>
+    <th>1.438billion</th>
+    <th>Hokey</th>
+    </tr>
+    </body>
+</html>
